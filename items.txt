@@ -1,0 +1,81 @@
+HTML
+Accessibility
+The outcome of using the value property on different elements
+Using custom data attributes in HTML and JS
+The intricacies of <section>
+
+CSS
+CSS art
+CSS animation
+CSS Grid
+UI Design principles: Color & contrast, whitespace, scale, visual hierarchy, typography
+Practice flexbox, make a numbered list wrapped/unwrapped / different main axes: https://css-tricks.com/almanac/properties/f/flex-wrap/
+Grid-template-areas shorthand
+The transition shorthand property
+Master box-shadow. Using several comma-separated box shadows to the same element
+CSS logic statement, such as .feature:not(:last-of-type)
+CSS media queries
+CSS conditional formatting (calendar based on date for example)
+The position property
+Pseudoelements
+Pseudoclasses
+Text-transform
+Sass
+Bootstrap
+
+JS
+JS keywords not viable as variable names
+Garbage collection in JS how to avoid. https://youtu.be/UiYhTcqx_wk?list=PLpHHuQtuf287iRanaZ6X8QAmfst3LZtxO&t=3300
+The intricacies of NodeLists
+Practice passing functions to functions, and have parameter functions
+Regex
+String manipulation and string manipulation functions, do all of https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
+The intricacies of arrow functions
+Classes
+Recursion
+JSON
+ES6 features and syntactic sugar
+OOP, be able to describe all the features (AND UNDERSTAND THEM THOROUGHLY) and create examples of them
+Getters and setters
+Modules, exporting and importing functions between files
+Ternary shorthand
+Async/Await
+Promises
+APIs
+Unit Testing
+Integration Testing
+E2E Testing
+NPM
+Node
+Next.js
+Express
+React
+TypeScript
+Headless CMS (Strapi?)
+
+
+Misc
+Complement colors. For example split-complementary color scheme. https://www.oberlo.com/blog/color-combinations-cheat-sheet
+Honing of soft skills
+SSH
+Terminal
+Git
+How to write good user stories
+Using using emmet abbreviations in vscode
+Markdown
+Figma
+Design patterns
+HTTP
+Deployment
+Databases (pick one)
+__________________
+
+Everything on https://www.youtube.com/watch?v=EqzUcMzfV1w
+Model.collision method in the battleship file: get a good understanding of the nested for loops for array comparison
+Page 344 revisit this. Add split() to brad's code, find the bug in his code
+rewrite Head On object constructor lessons but with ES6 class syntax
+Favor composition over inheritance?? Factor functions?   https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up#:~:text=Functions%20are%20first%2Dclass%20in,function%20that%20returns%20an%20object.
+Object.setPrototypeOf(childObj, parentObj)
+
+Optional
+ do Thu Nghiem projects
